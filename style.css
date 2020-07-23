@@ -1,0 +1,71 @@
+
+body
+{
+  background:url(./Wood-2.jpg)no-repeat;
+  background-size: cover;
+
+}
+.container
+{
+background-color: black;
+margin-bottom: 20px;
+}
+
+.head
+{
+  margin-top: 1rem;
+  font-size: 4rem;
+  color:pink;
+
+}
+.subject
+{
+    font-size: 2rem;
+    margin-top: 0.5rem;
+    float: left;
+
+}
+.subject label
+{
+  height: 30px;
+  width:25%;
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: yellow;
+}
+
+.subject main
+{
+  font-size: 3rem;
+}
+.btn
+{
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+.result
+{
+  float: left;
+
+}
+
+.sub-head1
+{
+  font-size: 2rem;
+  height: 50px;
+  width:400px;
+  margin-top: 17px;
+  background-color: white;
+  color:red;
+}
+
+.sub-head2, .sub-head3, .sub-head4
+{
+  font-size: 2rem;
+  height: 50px;
+  width:400px;
+  margin-top: 57px;
+  background-color: white;
+color:red;
+}
